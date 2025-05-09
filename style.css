@@ -24,6 +24,13 @@
 }
 
 /*Modificações visuais da estrutura do fundo do site!*/
+
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   background: var(--bg-url);
   background-repeat: no-repeat;
