@@ -30,6 +30,7 @@ body {
   background-position: top center;
   background-size: cover;
   height: 100vh;
+  width: 100vw;
 }
 /*Modificações visuais da estrutura universáis do Body!*/
 body * {
