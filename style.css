@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 /*Cores se alternando ao mudar o tema do site!*/
 :root {
@@ -48,7 +49,7 @@ body * {
 #container {
   width: 100%;
   max-width: 588px;
-  margin: 56px auto 0px auto;
+  margin: 56px auto 0px;
   padding: 0px 24px;
 }
 /*Modificações visuais da estrutura do perfil do site!*/
